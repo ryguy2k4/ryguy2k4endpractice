@@ -18,5 +18,7 @@ And Improvements in my One Cycle Practicerer vs Emma's Epic End Practice
 Thanks for checking this out! While your here I might as well self-promo...
 * [Youtube](https://www.youtube.com/channel/UC81FHVFRqi0M6ELnmGNmQog)
 * [Twitter](https://twitter.com/ryguy2k4)
+* [My Hotkey Practice Map](https://cdn.discordapp.com/attachments/405839885509984256/821896625634410546/HotkeyPractice_v2.1.zip)
+* [My Speedrun Companion Tool](https://github.com/ryguy2k4/speedruncompanion)
 
 Bug reports and feature requests are appreciated! Contact me at ryguy2k4#9371
