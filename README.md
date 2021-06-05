@@ -13,7 +13,7 @@ I'll start with the improvements in my map vs Jojo's end practice.
 
 And Improvements in my One Cycle Practicerer vs Emma's Epic End Practice
 * Whenever I loaded in her world I would be in the fountain and would have to do /kill to reset the map (fixed in mine)
-* I always though the method for customizing the fountain setup in her map was a little janky so I tried to make mine more straightforward
+* I always thought the method for customizing the fountain setup in her map was a little janky so I tried to make mine more straightforward
 * Mine includes a customizable loadout
 * Emma's map used east/west perches, mine uses north/south
 * Emma's map only had 25 different dragon heights, mine has over 2500
