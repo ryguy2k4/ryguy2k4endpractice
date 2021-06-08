@@ -1,6 +1,6 @@
 # Ryguy2k4's End Practice Map
 
-Hello! This is a map I have created to practice one-cycling and end fights. I know there are already well established end practice maps in the community like Jojoe's Perch Practice and Emma's One Cycle Map, but mine is a little different. My map combines the core features of both of those maps into one while personalizing it to my own tastes and adding much more room for personal preference in the many settings you can choose. The main draw in my opinion is that this map has so many customizable settings and has BOTH one-cycling practice AND perch/end fight practice in one map. [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v1.3.0/Ryguy2k4.End.Practice.v1.3.zip)
+Hello! This is a map I have created to practice one-cycling and end fights. I know there are already well established end practice maps in the community like Jojoe's Perch Practice and Emma's One Cycle Map, but mine is a little different. My map combines the core features of both of those maps into one while personalizing it to my own tastes and adding much more room for personal preference in the many settings you can choose. The main draw in my opinion is that this map has so many customizable settings and has BOTH one-cycling practice AND perch/end fight practice in one map. [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v1.4.0/Ryguy2k4.End.Practice.v1.4.zip)
 
 
 ### I'll start with the improvements in my map vs Jojoe's end practice. 
