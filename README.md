@@ -27,3 +27,5 @@ Hello! This is a map I have created to practice one-cycling and end fights. This
 * [Youtube](https://www.youtube.com/channel/UC81FHVFRqi0M6ELnmGNmQog)
 * [Twitter](https://twitter.com/ryguy2k4)
 * [My Hotkey Practice Map](https://cdn.discordapp.com/attachments/405839885509984256/821896625634410546/HotkeyPractice_v2.1.zip)
+
+I plan on making my own portal practice map next, all the current ones have big inconveniences that make practicing not as easy as it should be imo.
