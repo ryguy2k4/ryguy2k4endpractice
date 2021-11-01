@@ -2,6 +2,8 @@
 
 Hello! This is a map I have created to practice one-cycling and end fights. This is a fun project of mine that I am so happy so many people like. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371 [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v2.0.0/Ryguy2k4.End.Practice.v2.0.zip)
 
+I am currently working on v2.1.0, it will include a menu system like the one in Llama's bastion practice, improved loadout editors, and a few important bug fixes. So make sure to come back here and get it when it comes out!
+
 
 ### One Cycle Practice
 * Simulates north/south perches with over 2500 different dragon heights
