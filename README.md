@@ -1,9 +1,6 @@
 # Ryguy2k4's End Practice Map
 
-Hello! This is a map I have created to practice one-cycling and end fights. This is a fun project of mine that I am so happy so many people like. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371 [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v2.0.0/Ryguy2k4.End.Practice.v2.0.zip)
-
-I am currently working on v2.1.0, it will include a menu system like the one in Llama's bastion practice, improved loadout editors, and a few important bug fixes. So make sure to come back here and get it when it comes out!
-
+Hello! This is a map I have created to practice one-cycling and end fights. This is a fun project of mine that I am so happy so many people like. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371 [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v2.1.0/Ryguy2k4_End_Practice_v2.1.0.zip)
 
 ### One Cycle Practice
 * Simulates north/south perches with over 2500 different dragon heights
@@ -17,7 +14,7 @@ I am currently working on v2.1.0, it will include a menu system like the one in 
 
 ### Perch Practice
 * 5 different end islands to practice on
-* Customizable loadouts in game (or within the datapack for extra customizability)
+* Customizable loadouts in-game
 * Option to resummon the dragon (takes 30 sec) in order to better simulate the fight
 * Option to have a far dragon, close dragon, or random (see [T_Wag's video](https://youtu.be/0cQXHpDi8ps?t=262) for more info)
 * Option to spawn at the edge of the island or next to the fountain
@@ -30,4 +27,4 @@ I am currently working on v2.1.0, it will include a menu system like the one in 
 * [Twitter](https://twitter.com/ryguy2k4)
 * [My Hotkey Practice Map](https://cdn.discordapp.com/attachments/405839885509984256/821896625634410546/HotkeyPractice_v2.1.zip)
 
-I plan on making my own portal practice map next, all the current ones have big inconveniences that make practicing not as easy as it should be imo.
+I plan on making my own portal practice map next, all the current ones have big inconveniences that make practicing not as easy as it should be imo. Stay tuned!
