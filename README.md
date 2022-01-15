@@ -27,3 +27,7 @@ Hello! This is a map I have created to practice one-cycling and end fights. This
 * [Twitter](https://twitter.com/ryguy2k4)
 * [My Portal Practice Map](https://github.com/ryguy2k4/ryguy2k4portalpractice)
 * [My Hotkey Practice Map](https://cdn.discordapp.com/attachments/405839885509984256/821896625634410546/HotkeyPractice_v2.1.zip)
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kyfcadzyvflgq7zcxprk" alt="trackgit-views" />
+</a>
