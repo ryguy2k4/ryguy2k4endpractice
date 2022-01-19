@@ -1,11 +1,12 @@
 # Ryguy2k4's End Practice Map
 
-Hello! This is a map I have created to practice one-cycling and end fights. This is a fun project of mine that I am so happy so many people like. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371 [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v2.1.0/Ryguy2k4_End_Practice_v2.1.0.zip)
+Hello! This is a map I have created to practice one-cycling and end fights. This is a fun project of mine that I am so happy so many people like. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371 [Download Here!](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/download/v2.2.0/_Ryguy2k4_End_Practice_v2.2.0.zip)
 
 ### One Cycle Practice
-* Simulates north/south perches with over 2500 different dragon heights
+* Simulates north/south perches with 2600 different dragon heights
 * Choose from 4-9 beds or a custom loadout
 * Create custom fountain setups for anchor cycles and whatnot
+* Save dragon heights to practice over and over
 #### The following also apply during the one-cycle in perch practice
 * Option to show dragon head distance (arbitrary number)
 * Option to show dragon health in the sidebar
@@ -25,7 +26,6 @@ Hello! This is a map I have created to practice one-cycling and end fights. This
 ### Thanks for checking this out! While your here I might as well self-promo...
 * [Youtube](https://www.youtube.com/channel/UC81FHVFRqi0M6ELnmGNmQog)
 * [Twitter](https://twitter.com/ryguy2k4)
-* [My Portal Practice Map](https://github.com/ryguy2k4/ryguy2k4portalpractice)
 * [My Hotkey Practice Map](https://cdn.discordapp.com/attachments/405839885509984256/821896625634410546/HotkeyPractice_v2.1.zip)
 
 <a href="https://trackgit.com">
