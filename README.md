@@ -3,7 +3,7 @@
 Hello! This is a map I have created to practice one-cycling and end fights. This is a fun project of mine that I am so happy so many people like. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371 
 
 ### One Cycle Practice
-* Simulates north/south perches with 7.5 trillion different dragon heights
+* Simulates north/south or diagonal perches with 7.5 trillion different dragon heights
 * Choose from 4-9 beds or a custom loadout
 * Create custom fountain setups for anchor cycles and whatnot
 * Save dragon heights to practice over and over
